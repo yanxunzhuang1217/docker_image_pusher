@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.8-ef234b38637b8ab5c73f81e2104124e47ae71bd2-head
+rancher/shell:v0.1.24
