@@ -1,1 +1,1 @@
-rancher/fleet-agent:v0.9.5
+rancher/rancher-webhook:v0.4.7
