@@ -1,1 +1,1 @@
-mcr.microsoft.com/windows/servercore:ltsc2019
+rancher/rancher-webhook:v0.4.8-rc1
