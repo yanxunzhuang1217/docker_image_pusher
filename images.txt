@@ -1,1 +1,1 @@
-docker pull owncloud
+docker pull owncloud/server
