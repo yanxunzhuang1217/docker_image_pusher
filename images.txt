@@ -1,1 +1,1 @@
-ailemondocker/asrt_service:1.3.0
+docker pull owncloud
