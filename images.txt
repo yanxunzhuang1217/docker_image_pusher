@@ -1,1 +1,1 @@
-apache/apisix:3.10.0-debian
+apache/apisix-ingress-controller:1.8.0
