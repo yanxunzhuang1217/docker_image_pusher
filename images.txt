@@ -1,1 +1,1 @@
-apache/apisix-ingress-controller:1.8.0
+docker.io/rancher/fleet-agent:v0.9.10-rc.2
