@@ -1,1 +1,1 @@
-docker.io/kennethreitz/httpbin:latest
+kennethreitz/httpbin
