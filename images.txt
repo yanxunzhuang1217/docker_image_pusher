@@ -1,1 +1,1 @@
-docker.io/rancher/fleet-agent:v0.9.10-rc.2
+docker.io/kennethreitz/httpbin:latest
