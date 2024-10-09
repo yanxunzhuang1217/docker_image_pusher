@@ -1,1 +1,1 @@
-docker.io/library/nginx:1
+node:18-alpine3.18
