@@ -1,1 +1,1 @@
-kube-proxy:v1.27.1
+docker.io/kubesphere/kube-proxy:v1.27.1
