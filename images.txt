@@ -1,1 +1,1 @@
-node:18-alpine3.18
+docker.io/kubesphere/pause:3.8
