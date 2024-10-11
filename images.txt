@@ -1,1 +1,1 @@
-docker.io/kubesphere/k8s-dns-node-cache:1.15.12
+docker.io/kubesphere/kube-scheduler:v1.27.1
