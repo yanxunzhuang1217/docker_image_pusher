@@ -1,1 +1,1 @@
-docker.io/kubesphere/kube-controller-manager:v1.27.1
+docker.io/kubesphere/k8s-dns-node-cache:1.15.12
