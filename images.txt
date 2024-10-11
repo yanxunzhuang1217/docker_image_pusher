@@ -1,1 +1,1 @@
-calico/pod2daemon-flexvol:v3.26.1
+kubeadm.k8s.io/v1beta2
