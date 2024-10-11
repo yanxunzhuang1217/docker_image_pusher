@@ -1,1 +1,1 @@
-docker.io/kubesphere/kube-scheduler:v1.27.1
+docker.io/calico/kube-controllers:v3.26.1
