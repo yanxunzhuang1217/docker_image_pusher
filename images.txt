@@ -1,1 +1,1 @@
-docker.io/library/nginx:alpine
+docker.io/library/httpd:alpine
