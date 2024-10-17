@@ -1,1 +1,1 @@
-docker.io/wg/wrk:latest
+docker.io/wg/wrk
