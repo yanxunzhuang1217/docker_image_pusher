@@ -1,1 +1,1 @@
-docker.io/library/httpd:alpine
+docker.io/wg/wrk:latest
