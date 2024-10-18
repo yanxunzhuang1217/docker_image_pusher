@@ -1,1 +1,1 @@
-docker.io/prom/blackbox-exporter:v0.21.0
+gitlab/gitlab-ce:16.6.6-ce.0
