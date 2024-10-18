@@ -1,1 +1,1 @@
-williamyeh/wrk
+docker.io/prom/blackbox-exporter:v0.21.0
