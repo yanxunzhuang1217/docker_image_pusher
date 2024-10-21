@@ -1,1 +1,1 @@
-prom/node-exporter
+ncabatoff/process-exporter
