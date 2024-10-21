@@ -1,1 +1,1 @@
-ncabatoff/process-exporter
+prom/mysqld-exporter
