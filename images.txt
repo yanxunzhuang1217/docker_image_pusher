@@ -1,1 +1,1 @@
-quay.mirrors.ustc.edu.cn/prometheus/alertmanager:v0.27.0
+grafana/grafana:11.2.0
