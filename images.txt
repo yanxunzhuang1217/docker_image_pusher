@@ -1,1 +1,1 @@
-docker.io/gmoney23/nfs-client-provisioner:latest
+nginx:latest
