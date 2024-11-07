@@ -1,1 +1,1 @@
-nginx:latest
+rook/ceph:v1.10.11
