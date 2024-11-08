@@ -1,1 +1,1 @@
-rook/ceph:v1.10.11
+quay.mirrors.ustc.edu.cn/cephcsi/cephcsi:v3.7.2
