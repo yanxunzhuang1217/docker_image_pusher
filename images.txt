@@ -1,1 +1,1 @@
-quay.mirrors.ustc.edu.cn/cephcsi/cephcsi:v3.7.2
+quay.io/cephcsi/cephcsi:v3.9.0
