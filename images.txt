@@ -1,1 +1,1 @@
-quay.io/cephcsi/cephcsi:v3.9.0
+quay.io/cephcsi/cephcsi:v3.7.2
