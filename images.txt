@@ -1,1 +1,1 @@
-registry.k8s.io/pause:3.6
+docker.io/istio/operator:1.18.7
