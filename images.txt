@@ -1,1 +1,2 @@
-docker.io/istio/proxyv2:1.18.7
+jimmidyson/configmap-reload:v0.8.0
+prom/prometheus:v2.41.0
