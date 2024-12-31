@@ -1,1 +1,1 @@
-docker.io/openzipkin/zipkin-slim:2.23.14
+gcr.io/tetratelabs/web-frontend:1.0.0
