@@ -1,1 +1,1 @@
-docker.io/radial/busyboxplus:curl
+radial/busyboxplus
