@@ -1,1 +1,1 @@
-docker.io/radial/busyboxplus:curl
+node:22.13.1
