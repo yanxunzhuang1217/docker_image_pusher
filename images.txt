@@ -1,1 +1,1 @@
-node:22.13.1
+mereith/van-nav:latest
