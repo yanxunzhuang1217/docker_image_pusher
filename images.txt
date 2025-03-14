@@ -1,1 +1,1 @@
-mereith/van-nav:latest
+mysql:8
