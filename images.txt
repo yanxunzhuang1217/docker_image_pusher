@@ -1,1 +1,1 @@
-mysql:8
+uusec/openresty-manager:latest
