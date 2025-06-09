@@ -1,1 +1,1 @@
-uusec/openresty-manager:latest
+python:3.9-slim
