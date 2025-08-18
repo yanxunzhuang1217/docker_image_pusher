@@ -1,3 +1,1 @@
-chishin/nginx-proxy-manager-zh
-jc21/mariadb-aria:latest
-jc21/nginx-proxy-manager:latest
+louislam/uptime-kuma:nightly2
