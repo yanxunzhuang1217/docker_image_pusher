@@ -1,1 +1,1 @@
-louislam/uptime-kuma:nightly2
+node:20.18.0
