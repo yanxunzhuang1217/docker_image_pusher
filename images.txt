@@ -1,1 +1,1 @@
-node:20.18.0
+lscr.io/linuxserver/wireguard:latest
