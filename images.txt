@@ -1,1 +1,1 @@
-lscr.io/linuxserver/wireguard:legacy-v1.0.20210914-ls25
+ngoduykhanh/wireguard-ui:latest
