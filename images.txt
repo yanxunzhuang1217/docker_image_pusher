@@ -1,1 +1,1 @@
-ngoduykhanh/wireguard-ui:latest
+dushixiang/kafka-map:latest
