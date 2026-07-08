@@ -1,1 +1,1 @@
-nginx:alpine
+docker.io/kubesphere/ks-controller-manager:v3.3.2
