@@ -1,2 +1,1 @@
-docker.io/istio/pilot:1.17.2
-docker.io/istio/proxyv2:1.17.2
+docker.io/calico/node:v3.22.0
